@@ -1,0 +1,14 @@
+CUSTOM MODEL GUIDE
+Barrels can be created by placing the first seven flowers in the creative menu’s decoration tab in flower pots.
+Large wooden crates can be created by placing dead brain coral. Model rotations are randomly chosen.
+Small wooden crates (supply crates) can be created by placing dead horn coral. Model rotations and amount of crates are randomly chosen.
+Wooden forklift pallets can be created by placing 1 or 2 sea pickles in the same block. A pallet can be leaned on a wall by attaching iron bars to the wall.
+Small paint cans can be created by placing dead bubble coral. Model rotations and amount of paint cans are randomly chosen.
+Small drink cans can be created by placing dead fire coral. Model rotations are randomly chosen.
+A miniature citadel can be created by placing a pink tulip.
+2D trash piles can be created by placing lime and pink stained glass blocks, or by placing them in item frames. These cover a 3x3 block area on the ground. Z-fighting may occur if two trash piles of the same type overlap each other.
+Small wall lights can be created by placing redstone torches on a wall.
+A metal grate decal can be created by placing a brown stained glass block.
+Various ivy decals can be created by attaching lime, green and pink stained glass panes to walls. The debug stick may be useful in corners.
+There are a few graffiti textures and poster decals that can be placed on walls with yellow, red and black glass panes.
+A pipe model can be placed using stripped oak logs (doesn’t work on y axis for some reason).
