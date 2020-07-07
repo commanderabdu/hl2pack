@@ -12,3 +12,5 @@ A metal grate decal can be created by placing a brown stained glass block.
 Various ivy decals can be created by attaching lime, green and pink stained glass panes to walls. The debug stick may be useful in corners.
 There are a few graffiti textures and poster decals that can be placed on walls with yellow, red and black glass panes.
 A pipe model can be placed using stripped oak logs (doesn’t work on y axis for some reason).
+Chain-link fences can be created by placing acacia fence gates 1 block off the ground.
+Lab equipment props can be created by placing undamaged and chipped anvils.
