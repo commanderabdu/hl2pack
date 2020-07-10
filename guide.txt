@@ -14,3 +14,5 @@ There are a few graffiti textures and poster decals that can be placed on walls 
 A pipe model can be placed using stripped oak logs (doesn’t work on y axis for some reason).
 Chain-link fences can be created by placing acacia fence gates 1 block off the ground.
 Lab equipment props can be created by placing undamaged and chipped anvils.
+A health charger prop can be created by placing acacia buttons on walls
+Metal air ducts can be created by placing acacia stairs - this implementation sucks and may change in future.
