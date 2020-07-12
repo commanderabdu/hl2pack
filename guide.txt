@@ -13,6 +13,6 @@ Various ivy decals can be created by attaching lime, green and pink stained glas
 There are a few graffiti textures and poster decals that can be placed on walls with yellow, red and black glass panes.
 A pipe model can be placed using stripped oak logs (doesn’t work on y axis for some reason).
 Chain-link fences can be created by placing acacia fence gates 1 block off the ground.
-Lab equipment props can be created by placing undamaged and chipped anvils.
+Lab equipment props can be created by placing end portal frames. Variants can be swapped by leaving them empty or putting Ender eyes in them.
 A health charger prop can be created by placing acacia buttons on walls
 Metal air ducts can be created by placing acacia stairs - this implementation sucks and may change in future.
