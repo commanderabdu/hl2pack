@@ -16,3 +16,4 @@ Chain-link fences can be created by placing acacia fence gates 1 block off the g
 Lab equipment props can be created by placing end portal frames. Variants can be swapped by leaving them empty or putting Ender eyes in them.
 A health charger prop can be created by placing acacia buttons on walls
 Metal air ducts can be created by placing acacia stairs - this implementation sucks and may change in future.
+Metal hand rails/fences can be placed with nether brick stairs.
